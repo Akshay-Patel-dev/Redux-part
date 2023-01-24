@@ -1,0 +1,8 @@
+.App >span {
+    position: absolute;
+    font-size: 1.2rem;
+    
+    color:dark black;
+    right:6.7rem;
+    top:2rem
+}

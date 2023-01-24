@@ -1,0 +1,19 @@
+
+.shoppingcart{
+    border:5px solid gray;
+    padding:1.2rem;
+    border-radius: 2.9rem;
+    display: inline-block;
+    margin:15px;
+    
+}
+
+.shoppingcart button{
+   position: relative;
+   top:12px;
+   left:3.5rem;
+   padding:0.3rem;
+   background-color: aqua;
+   border-radius: 9px;
+   
+}
